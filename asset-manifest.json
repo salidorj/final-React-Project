@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/final-React-Project/static/css/main.e201f91f.css",
-    "main.js": "/final-React-Project/static/js/main.5a72a939.js",
+    "main.js": "/final-React-Project/static/js/main.937051d6.js",
     "static/js/453.1293f7c8.chunk.js": "/final-React-Project/static/js/453.1293f7c8.chunk.js",
     "static/media/Breadcrumbs.png": "/final-React-Project/static/media/Breadcrumbs.244c07b45abdc4a8129c.png",
     "static/media/ImagesC2.png": "/final-React-Project/static/media/ImagesC2.4ae0d680f79b63b7060a.png",
@@ -50,11 +50,11 @@
     "static/media/CaretLeft (1).svg": "/final-React-Project/static/media/CaretLeft (1).b8f97a85d99e9954dc046f18092f2463.svg",
     "static/media/CaretRight.svg": "/final-React-Project/static/media/CaretRight.2b41ff547e62c3a3bf5e030a017cba8f.svg",
     "main.e201f91f.css.map": "/final-React-Project/static/css/main.e201f91f.css.map",
-    "main.5a72a939.js.map": "/final-React-Project/static/js/main.5a72a939.js.map",
+    "main.937051d6.js.map": "/final-React-Project/static/js/main.937051d6.js.map",
     "453.1293f7c8.chunk.js.map": "/final-React-Project/static/js/453.1293f7c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e201f91f.css",
-    "static/js/main.5a72a939.js"
+    "static/js/main.937051d6.js"
   ]
 }
