@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/final-React-Project">
       <Routes>
         <Route exact path="/" Component={MainLaoyut} />
         <Route path="/poster" Component={PosterPage} />
